@@ -10,7 +10,7 @@ const blogConfig = {
         name: '纸鹿本鹿',
         avatar: 'https://www.zhilu.cyou/api/avatar.png',
         email: 'hi@zhilu.cyou',
-        homepage: 'https://www.zhilu.cyou/',
+        homepage: 'blog-v3-main-github-iogithubio.vercel.app',                 //'https://www.zhilu.cyou/',
     },
     copyright: {
         abbr: 'CC BY-NC-SA 4.0',
@@ -22,7 +22,7 @@ const blogConfig = {
     timeEstablished: '2019-07-19',
     /** 时区，修改后还应修改 time.ts 中引入的时区包 */
     timezone: 'Asia/Shanghai',
-    url: 'https://blog.zhilu.cyou/',
+    url: 'blog-v3-main-github-iogithubio.vercel.app',  //'https://blog.zhilu.cyou/',
 
     feed: {
         limit: 50,
